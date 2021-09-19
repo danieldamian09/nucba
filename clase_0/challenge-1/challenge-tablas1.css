@@ -1,0 +1,14 @@
+
+table{
+    border-spacing: 0px !important;
+}
+
+th,
+tr,
+td{
+    border: 1px solid #cdcdcd;
+}
+
+.descripcion{
+    border: none !important;
+}
